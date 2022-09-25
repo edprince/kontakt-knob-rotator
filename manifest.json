@@ -1,0 +1,21 @@
+{
+  "name": "Knob Rotator",
+  "id": "1150213363013997713",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "parameters": [
+    {
+      "name": "Degrees of rotation",
+      "key": "degrees",
+      "allowFreeform": true
+    },
+    {
+      "name": "Frames",
+      "key": "frames",
+      "allowFreeform": true
+    }
+  ]
+}
